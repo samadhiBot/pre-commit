@@ -20,6 +20,7 @@ These are the available checks:
 * white_space
 * console_log
 * debugger
+* pry
 * tabs
 * jshint
 * js\_lint\_all (Runs JSLint on all staged JS files)
